@@ -1,0 +1,41 @@
+---
+title: "Guide-SportBetting"
+author: "Cristian Daniel López Rios"
+date: "2022-10-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## A Sport Betting Guide
+
+A guide to sport betting
+
+```{r cars, echo=FALSE}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+## Glossary
+break-even: having income exactly equal to expediture, thus showing neither profit nor loss.
+
+Break-even percentage: is the number of trades you need to win to break even. It's used to determine whether your trading system provides enough winning trades to be profitable. 
+$$ \frac{stopLoss}{target + stopLoss}*100\% $$
+
+Spread betting:
+
+Asian Handicap:
+
+Bankroll: money in one's possession; monetary resource
